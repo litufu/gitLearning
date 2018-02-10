@@ -6,3 +6,5 @@ insert somthing.
 jp
 Creating a new branch is quick and simple.
 this id is 1987
+git is free software
+
