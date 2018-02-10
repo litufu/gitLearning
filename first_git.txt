@@ -4,4 +4,5 @@ this is my first git project.
 第二次写点东西
 insert somthing.
 jp
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
+
